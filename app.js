@@ -18,7 +18,7 @@ let theAnswer = "Good, How are you."
 let theSecondQ = "name pets \"your pet\" like you want"
 FontFace
 
-
+console.log(theAnswer)
 console.log(theSecondQ)
 console.log(greetings + theAnswer + theSecondQ)
 
