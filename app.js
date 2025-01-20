@@ -16,6 +16,7 @@ console.log("My name is " + name + " and my fav snack is: " + favsnack + " " + l
 let greetings = "Hi Brother."
 let theAnswer = "Good, How are you."
 let theSecondQ = "name pets \"your pet\" like you want"
+FontFace
 
 
 console.log(theSecondQ)
